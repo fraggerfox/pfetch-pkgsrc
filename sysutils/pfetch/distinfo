@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: distinfo,v 1.1 2019/12/29 01:29:40 fox Exp $
 
 SHA1 (pfetch-0.4.0.tar.gz) = dd9e27e4bf352765739d6e635a52731499cb1d45
 RMD160 (pfetch-0.4.0.tar.gz) = 4d5b993e9e1d1a0d5849233f98e70b1628d23f24

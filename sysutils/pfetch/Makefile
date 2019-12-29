@@ -1,9 +1,8 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2019/12/29 01:29:40 fox Exp $
 
 DISTNAME=	pfetch-0.4.0
 CATEGORIES=	sysutils
 MASTER_SITES=	${MASTER_SITE_GITHUB:=dylanaraps/}
-EXTRACT_USING=	bsdtar
 
 MAINTAINER=	fox@NetBSD.org
 HOMEPAGE=	https://github.com/dylanaraps/pfetch
