@@ -1,11 +1,9 @@
 pfetch-pkgsrc
 =============
 
-NetBSD pkgsrc script for pfetch.
+NetBSD [pkgsrc][3] script for pfetch.
 
 You can find pfetch [here][1]
-
-NOTE: This package is not yet available in the pkgsrc tree.
 
 Installation
 ------------
@@ -30,6 +28,7 @@ Credits
 -------
 
 * pfetch is developed and maintained by [Dylan Araps][2]
+* Thanks to `leot@` for reviewing and suggesting fixes to the package.
 
 License
 -------
@@ -38,3 +37,4 @@ BSD 2-clause. See LICENSE.
 
 [1]: https://github.com/dylanaraps/pfetch
 [2]: https://github.com/dylanaraps
+[3]: http://pkgsrc.se/sysutils/pfetch
